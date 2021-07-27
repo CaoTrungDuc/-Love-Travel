@@ -1,0 +1,142 @@
+/* home responsive */
+
+/* Tablet */
+@media (min-width:740px) and (max-width:1023px){
+    
+}
+/* Mobie */
+@media (max-width:740px) { 
+    .col-full {
+        width: 100% !important;
+    }
+    .gird {
+        /* padding: 0 15px; */
+        /* width: 300px; */
+    }
+    .header {
+        height:1405px;
+    }
+    .header__option {
+        height: 125px;
+        padding: 0 42px;
+        background-color: #555555;
+    }
+    .header__nav {
+        padding: 20px 15px 15px 15px;
+        display: block;
+    }
+    .header__logo {
+        margin: 0 auto;
+        height: 46px;
+    }
+    .header__menu {
+        margin: 0 auto;
+    }
+    .header__navbar {
+        display: none;
+    }
+    .header__container {
+        padding: 180px 37.5px 183px;
+        margin: 0 auto;
+        height: 1280px;
+    }
+    .header_container-heading {
+        font-size: 25px;
+    }
+    .header_container-option {
+        width: 100%;
+        padding: 0 0;
+        display: flex;
+        margin-bottom: 55px;
+    }
+    .header_container-option--select {
+        width: 270px;
+        margin: 0 auto;
+    }
+    .header_container-travel {
+        width: 100%;
+    }
+    .content__destination {
+        height: 1242px;
+    }
+    .m-2 {
+        margin: 20px 0;
+    }
+    .heading__navbar-list {
+        display: none;
+    }
+    .content__view {
+        height: 375px;
+        padding: 50px 57px;
+    }
+    .col-1-6 {
+        display: none;
+    }
+    .p-5-0 {
+        padding: 0 0;
+    }
+    .m-t-20 {
+        margin-top: 0;
+    }
+    .content__view-heading {
+        font-size: 45px;
+    }
+    .content__view-heading {
+        line-height: 50px;
+    }
+    .content__option {
+        height: 540px;
+    }
+    .content__book {
+        height: 10px;
+    }
+    .content__view-slide {
+        height: 150px;
+        margin-bottom: 450px;
+    }
+    .content__view-count {
+        padding: 0 0;
+    }
+    .content__view-count-value {
+        background-color: #14b9d5;
+        height: 115px;
+    }
+    .content__view-count-value::after {
+        display: none;
+    }
+    .content__view-count--full {
+        height: 625px;
+    }
+    .content__view-count {
+        bottom: 0;
+        top: 100%;
+    }
+    .content__type {
+        margin-top: 20px;
+        height: 621px;
+    }
+    .content__packages {
+        height: 1926px;
+    }
+    .footer {
+        height: 1480px;
+        padding: 0 30px;
+    }
+    .footer__contact {
+        height: 220px;
+    }
+    .footer__contact-input {
+        width: 100%;
+        margin-right: 0;
+    }
+    .footer__contact-btn {
+        width: 100%;
+    }
+    .footer__content {
+        height: 1156px;
+    }
+    .footer__copyright {
+        height: 104px;
+        text-align: center;
+    }
+}

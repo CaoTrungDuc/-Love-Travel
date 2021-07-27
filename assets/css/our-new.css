@@ -1,0 +1,102 @@
+.header {
+    height: 310px;
+    background: url(/assets/img/our-new/parallax-3.jpg) center / cover no-repeat;
+}
+.header-background {
+    background-color: rgba(67, 74, 84, 0.3);
+    height: 100%;
+}
+.content {
+    margin-top: 50px;
+}
+.content__product {
+    height: 354px;
+}
+.col-1-2f {
+    width: 50%;
+    padding: 15px;
+}
+.content__img {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+/* base our-new */
+.content__img-address1 {
+    background: url(/assets/img/our-new/destination-12.jpg);
+}
+.content__img-address2 {
+    background: url(/assets/img/our-new/blog-4.jpg);
+}
+.content__img-address3 {
+    background: url(/assets/img/our-new/destination-7.jpg);
+}
+.content__img-address4 {
+    background: url(/assets/img/our-new/destination-20.jpg);
+}
+.bgr-green {
+    background-color: #1bbc9b;
+}
+.bgr-white {
+    background-color: #ffffff;
+    color: #9a9a9a !important;
+    border: 1px solid #ddd8d8;
+}
+.bgr-blue {
+    background-color: #14b9d5;
+}
+.color-green {
+    color: #1bbc9b;
+}
+.color-white {
+    color: #ffffff;
+}
+.color-blue {
+    color: #14b9d5;
+}
+.btn-white {
+    background-color: #ffffff;
+}
+.btn-pink {
+    background-color: #ba71da;
+}
+.btn-red {
+    background-color: #f76570;
+}
+.heading-color {
+    color: #555555 !important;
+}
+/*  */
+.content__introduce {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 30px;
+    color: #ffffff;
+}
+.content__introduce-title{
+    font-size: 14px;
+    line-height: 27px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.content__introduce-heading{
+    line-height: 25px;
+    font-size: 20px;
+}
+.content__introduce-container{
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    line-height: 27px;
+}
+.content__introduce-btn{
+    text-align: left;
+    width: 126px;
+    height: 37px;
+    padding: 5px 20px;
+    font-size: 14px;
+    line-height: 27px;
+    text-transform: uppercase;
+    border-radius: 30px;
+}
